@@ -12,11 +12,7 @@ This is a collaborative process, so dig in and try to help out! There are tons
 of details missing, just waiting for you to add them! So send us a pull
 request, please!
 
-This is all licensed under the terms of the `Creative Commons Zero`_ license.
-
-Read this in `简体中文`_ (simplified Chinese), `日本語`_ (Japanese), `한국어`_
-(Korean) and `Spanish`_. NOTE: these have not been reviewed by the alex/what-happens-when
-maintainers.
+This is all licensed under the terms of the `Creative Commons Zero`_ license
 
 Table of Contents
 ====================
